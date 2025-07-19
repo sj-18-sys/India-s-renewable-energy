@@ -18,6 +18,7 @@ The data is sourced from:
 - **Pandas** – data cleaning & manipulation
 - **Matplotlib** and **Seaborn** – data visualization
 - **Jupyter Notebook** – for code execution and analysis
+- **Tableau Public** - data visalizations
 
 ---
 
@@ -44,6 +45,7 @@ The data is sourced from:
   Energy Mix Strategy: States excelling in wind also focus on solar, suggesting policy or geographic synergy.
 - Insights:
 The correlation analysis reveals that economic strength (GSDP) is a significant enabler of renewable energy capacity, particularly for biomass and wind power. Population size shows moderate influence, especially on biomass due to resource availability. States with established wind energy infrastructure also tend to invest in solar, indicating a holistic renewable energy strategy. Policies aiming to enhance GSDP in lower-income states could indirectly boost their renewable energy adoption
+
 
 
 ---
