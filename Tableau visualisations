@@ -1,1 +1,28 @@
+Chart Descriptions:
+1. Top 10 States by Capacity
 
+  A horizontal bar chart showing the top 10 Indian states with the highest total renewable energy capacity in MW.
+  
+  Tamil Nadu, Karnataka, and Gujarat lead the list.
+  
+  Useful to identify leaders in renewable energy adoption.
+
+2. Energy-Wise Breakdown on the India Map
+
+  A choropleth map of India shaded based on total capacity per state for a selected energy type (e.g., Solar, Wind).
+  
+  Filters on the right allow selection by energy type, year, and zone.
+  
+  Provides quick spatial insights into energy infrastructure spread.
+
+3. Zone-Wise Capacity Breakdown
+
+  A stacked bar chart showing total capacity by energy type across Indian zones (North, South, West, Central, East, North-East).
+  
+  Highlights regional differences in the focus on specific energy types like wind (dominant in South/West) or solar.
+
+4. Capacity Trend Over the Years per Energy Type
+
+  A line chart showing how renewable energy capacity for each energy type has changed over time (2006–2024).
+  
+  Solar and Wind show the highest growth, especially after 2014.
