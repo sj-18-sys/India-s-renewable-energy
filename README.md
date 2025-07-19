@@ -47,7 +47,22 @@ The data is sourced from:
 The correlation analysis reveals that economic strength (GSDP) is a significant enabler of renewable energy capacity, particularly for biomass and wind power. Population size shows moderate influence, especially on biomass due to resource availability. States with established wind energy infrastructure also tend to invest in solar, indicating a holistic renewable energy strategy. Policies aiming to enhance GSDP in lower-income states could indirectly boost their renewable energy adoption
 
 
+India's Renewable Energy Landscape: 2006–2024
 
+This dashboard explores India's renewable energy capacity trends from 2006 to 2024. It includes:
+
+  --The top 10 states by installed capacity(MW)
+
+  --An India map breakdown by energy type 
+
+  --Zone-wise capacity analysis across the country
+
+  --Year-wise growth trends by energy type
+>> [View the Dashboard](https://public.tableau.com/views/Book3_17529556525700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1666" height="822" alt="Screenshot 2025-07-20 013600" src="https://github.com/user-attachments/assets/61498c8e-c434-4dee-aa33-6f42be4b6cdb" />
+
+
+Filter by zone, energy type, and year to dive deeper into regional contributions and national progress toward sustainable energy goals.
 ---
 
 
