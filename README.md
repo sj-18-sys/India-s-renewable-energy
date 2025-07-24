@@ -1,18 +1,59 @@
-# 🌱 India's Renewable Energy Analysis
+# India's Renewable Energy Dashboard ⚡
 
-This project explores the growth and distribution of renewable energy sources across India. Using public data and Python, we visualize trends in solar and wind energy adoption at both national and state levels, uncovering insights into India's green energy transition.
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
+[![Tableau Public](https://img.shields.io/badge/Visualized%20with-Tableau-orange)](https://public.tableau.com/app/profile/shreejhani.s/viz/Book3_17529556525700/Dashboard1)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
----
-
-## 📂 Dataset
-
-The data is sourced from:
-- **Kaggle**
-- Includes state-wise solar and wind capacity (in MW) over several years
+A data analytics project exploring India’s renewable energy capacity across states and sources using Python (Pandas, Plotly) and Tableau. The project aims to understand trends, state-wise contributions, and source-wise dominance from available government datasets.
 
 ---
 
-## 🛠️ Tools and Libraries
+## 📑 Table of Contents
+
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Key Findings](#key-findings)
+- [Data Sources](#data-sources)
+- [Tech Stack](#tech-stack)
+- [Visualization](#visualization)
+
+---
+## Project Structure
+.
+├── renewable_energy.ipynb       # Main analysis notebook
+├── renewable_data.csv           # Cleaned and processed dataset
+├── LICENSE
+└── README.md                    # This file
+
+##  Usage
+-- Open the Jupyter Notebook:
+**jupyter notebook renewable_energy.ipynb**
+
+**The notebook walks through:**
+--Importing and cleaning data
+--Melting and reshaping for state/year/source-wise analysis
+--Plotting trends using Plotly Express
+--Exporting CSVs for use in Tableau
+
+## Key Findings
+-- Top contributors: Tamil Nadu, Karnataka, Maharashtra, Gujarat lead in total installed renewable energy capacity.
+
+-- Dominant sources: Wind and solar dominate across most states, while others contribute marginally.
+
+-- Growth trends: Steady increase in capacity, especially in solar installations in the last decade.
+
+-- Disparities: Northeastern states lag behind in adoption, highlighting regional imbalances.
+
+## Data Sources
+-- MNRE (Ministry of New and Renewable Energy)
+
+-- Government of India’s open energy datasets
+
+-- India Energy Dashboard
+
+-- Cleaned CSV: renewable_data.csv
+
+## Tech Stack
 
 - **Python**
 - **Pandas** – data cleaning & manipulation
@@ -22,7 +63,7 @@ The data is sourced from:
 
 ---
 
-## 📊 Key Visualizations
+##Visualizations
 
 ### 1. **State-wise Energy Capacity trend**
 - **Type:** Line Plot
