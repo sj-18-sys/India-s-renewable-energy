@@ -22,7 +22,6 @@ A data analytics project exploring India’s renewable energy capacity across st
 .
 ├── renewable_energy.ipynb       # Main analysis notebook
 ├── renewable_data.csv           # Cleaned and processed dataset
-├── LICENSE
 └── README.md                    # This file
 
 ##  Usage
@@ -63,7 +62,7 @@ A data analytics project exploring India’s renewable energy capacity across st
 
 ---
 
-##Visualizations
+## Visualizations
 
 ### 1. **State-wise Energy Capacity trend**
 - **Type:** Line Plot
