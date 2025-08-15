@@ -35,13 +35,11 @@ A data analytics project exploring India’s renewable energy capacity across st
 --Exporting CSVs for use in Tableau
 
 ## Key Findings
--- Top contributors: Tamil Nadu, Karnataka, Maharashtra, Gujarat lead in total installed renewable energy capacity.
-
--- Dominant sources: Wind and solar dominate across most states, while others contribute marginally.
-
--- Growth trends: Steady increase in capacity, especially in solar installations in the last decade.
-
--- Disparities: Northeastern states lag behind in adoption, highlighting regional imbalances.
+-- Conducted analysis to pinpoint top contributors: Tamil Nadu, Karnataka, Maharashtra, and Gujarat led in installed capacity
+-- Quantified source dominance: wind and solar accounted for an estimated 70–80% of total installed renewable energy capacity across leading states.
+-- Identified growth trends: solar capacity surged by over 400% in the past decade, outpacing other energy sources.
+-- Highlighted regional imbalance: northeastern states possessed <10% of national renewable capacity, revealing a major geographic gap.
+-- Performed correlation analysis revealing that GSDP strongly influenced biomass and wind capacity (correlation coefficients r ≈ 0.7–0.8), while population showed only moderate impact (r ≈ 0.4–0.5).
 
 ## Data Sources
 -- MNRE (Ministry of New and Renewable Energy)
