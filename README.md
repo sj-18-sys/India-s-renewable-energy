@@ -77,7 +77,6 @@ A data analytics project exploring India’s renewable energy capacity across st
 
 
 ### 3. **Correlation heatmap**
-- **Type:** Stacked Bar Plot / Aggregate Sum
 - <img width="954" height="871" alt="image" src="https://github.com/user-attachments/assets/bac58eae-6236-468f-b02c-ac25aabaa154" />
   Theory behind the heatmap:
   Economic Factor: GSDP is the strongest driver for biomass and wind energy development.
